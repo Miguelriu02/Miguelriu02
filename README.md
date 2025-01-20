@@ -27,10 +27,10 @@ Soy una persona con mucha curiosidad, siempre buscando la mejor manera de optimi
 - Explorando más sobre **microservicios** y herramientas como **Docker**
 
 ### 📫 ¿Quieres ponerte en contacto?  
-- 💼 [LinkedIn](https://www.linkedin.com) *(puedes personalizar el enlace)*  
-- 📧 **miguel.tu.email@correo.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-rios-gutierrez/)
+- 📧 **miguelriu.dev@gmail.com**  
 
 ---
 
-_"El código no es solo instrucciones para una máquina, también es una forma de expresar ideas."_  
+_"El código no es solo instrucciones para una máquina, también es una forma de expresar e interpretar ideas."_  
 ¡Gracias por pasarte por mi perfil! 😊
