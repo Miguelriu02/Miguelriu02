@@ -16,11 +16,11 @@ Soy un desarrollador **Backend** apasionado por crear soluciones tecnológicas q
   Google Script | Google Firebase  
 
 ### 💡 ¿Qué puedes esperar de mí?  
-Soy alguien curioso por naturaleza, siempre buscando la mejor manera de optimizar y construir sistemas robustos, seguros y escalables. Trabajo con una mezcla de creatividad y lógica, lo que me permite enfrentar cualquier reto que se cruce en mi camino.  
+Soy una persona con mucha curiosidad, siempre buscando la mejor manera de optimizar y crear aplicaciones, seguras y escalables. Trabajo con creatividad y lógica, lo que me permite enfrentar cualquier reto que se cruce en mi camino.  
 
 ### 🛠️ Actualmente trabajando en:  
-- **Proyectos personales**: Explorando nuevas ideas con **Flutter** y **Firebase**.  
-- **Colaboraciones**: Abierto a participar en proyectos interesantes, ¡no dudes en escribirme!  
+- **Proyectos personales**: Creando proyectos que junte **Backend** con **Frontend**, aplicando una capa seguridad.  
+- **Colaboraciones**: ¡¡¡Abierto a participar en proyectos interesantes!!! 
 
 ### 🌱 Lo que estoy aprendiendo:  
 - Profundizando en arquitecturas modernas de backend.  
