@@ -15,7 +15,7 @@ Soy un desarrollador **Backend** apasionado por crear soluciones tecnológicas q
 - **Otros:**  
   Google Script | Google Firebase  
 
-### 💡 ¿Qué puedes esperar de mí?  
+### 💡 ¿Sobre mí?  
 Soy una persona con mucha curiosidad, siempre buscando la mejor manera de optimizar y crear aplicaciones, seguras y escalables. Trabajo con creatividad y lógica, lo que me permite enfrentar cualquier reto que se cruce en mi camino.  
 
 ### 🛠️ Actualmente trabajando en:  
