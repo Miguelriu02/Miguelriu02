@@ -19,7 +19,7 @@ Soy un desarrollador **Backend** apasionado por crear soluciones tecnológicas q
 Soy una persona con mucha curiosidad, siempre buscando la mejor manera de optimizar y crear aplicaciones, seguras y escalables. Trabajo con creatividad y lógica, lo que me permite enfrentar cualquier reto que se cruce en mi camino.  
 
 ### 🛠️ Actualmente trabajando en:  
-- **Proyectos personales**: Creando proyectos que junte **Backend** con **Frontend**, aplicando una capa seguridad.  
+- **Proyectos personales**: Creando proyectos que implemente tanto la parte **Backend** como **Frontend**, aplicando una capa seguridad.  
 - **Colaboraciones**: ¡¡¡Abierto a participar en proyectos interesantes!!! 
 
 ### 🌱 Lo que estoy aprendiendo:  
