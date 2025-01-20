@@ -24,7 +24,7 @@ Soy alguien curioso por naturaleza, siempre buscando la mejor manera de optimiza
 
 ### 🌱 Lo que estoy aprendiendo:  
 - Profundizando en arquitecturas modernas de backend.  
-- Explorando más sobre **microservicios** y herramientas como **Docker** y **Kubernetes**.  
+- Explorando más sobre **microservicios** y herramientas como **Docker**
 
 ### 📫 ¿Quieres ponerte en contacto?  
 - 💼 [LinkedIn](https://www.linkedin.com) *(puedes personalizar el enlace)*  
