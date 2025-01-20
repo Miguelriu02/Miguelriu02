@@ -43,3 +43,9 @@ Soy una persona con mucha curiosidad, siempre buscando la mejor manera de optimi
 
 _"El código no es solo instrucciones para una máquina, también es una forma de expresar e interpretar ideas."_  
 ¡Gracias por pasarte por mi perfil! 😊
+
+
+
+
+# 💻 GitHub Analytics
+![Lenguajes de Programación](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelriu02&layout=compact&langs_count=10&theme=radical)
