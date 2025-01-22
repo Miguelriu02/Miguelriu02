@@ -1,4 +1,4 @@
-[Imgur](https://imgur.com/hJRqn11)
+[Imgur](https://imgur.com/hJRqn11.png)
 
 # 👋 ¡Hola! Soy Miguel  
 
