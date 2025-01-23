@@ -1,4 +1,4 @@
-<img src="https://imgur.com/hJRqn11.png" alt="Banner"/>
+<img src="https://imgur.com/a/P5qSYLW.png" alt="Banner"/>
 
 # 👋 ¡Hola! Soy Miguel  
 
