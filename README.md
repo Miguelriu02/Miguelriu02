@@ -7,79 +7,34 @@ Soy un desarrollador **Full Stack Junior** apasionado por crear soluciones tecno
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack  
 
-<div style="display:flex; flex-wrap: wrap; gap: 15px;">
+### 🖥️ Lenguajes de Programación
+| Java | Python | C# | .NET | Ruby |
+|------|--------|----|------|------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="50"/> |
 
-<!-- Lenguajes -->
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br>Java
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><br>C#
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50"/><br>Kotlin
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="50"/><br>Ruby
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50"/><br>Dart
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="50"/><br>Google Apps Script
-</div>
-
-</div>
+| JavaScript | Kotlin | Dart | Google Apps Script |
+|------------|--------|------|------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="50"/> |
 
 ---
 
 ### ⚙️ Frameworks & Librerías
-<div style="display:flex; flex-wrap: wrap; gap: 15px;">
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50"/><br>Spring Boot
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/><br>Flutter
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50"/><br>Vue.js
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="50"/><br>Ruby on Rails
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/><br>TailwindCSS
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="50"/><br>Unity
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js
-</div>
-</div>
+| Spring Boot | Flutter | Vue.js | Ruby on Rails | TailwindCSS |
+|-------------|--------|-------|---------------|-------------|
+| <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/> |
+
+| Unity | Node.js |
+|-------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/> |
 
 ---
 
 ### 🗄️ Bases de Datos
-<div style="display:flex; flex-wrap: wrap; gap: 15px;">
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/><br>MySQL
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/><br>PostgreSQL
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/><br>SQLite
-</div>
-</div>
+| MySQL | PostgreSQL | SQLite |
+|-------|-----------|--------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/> |
 
 ---
 
@@ -89,41 +44,23 @@ Soy un desarrollador **Full Stack Junior** apasionado por crear soluciones tecno
 ---
 
 ### ☁️ Cloud & Servicios
-<div style="display:flex; flex-wrap: wrap; gap: 15px;">
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/><br>Firebase
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50"/><br>Google Cloud
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" width="50"/><br>AWS S3
-</div>
-</div>
+| Firebase | Google Cloud | AWS S3 |
+|----------|--------------|--------|
+| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" width="50"/> |
+
+---
+
+### 📡 APIs & Documentación
+| Postman | Swagger |
+|---------|--------|
+| <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/> | <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.svg" width="50"/> |
 
 ---
 
 ### 🛠️ Herramientas & DevOps
-<div style="display:flex; flex-wrap: wrap; gap: 15px;">
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/><br>GitHub
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50"/><br>GitLab
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="50"/><br>Trello
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" width="50"/><br>Slack
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://images.seeklogo.com/logo-png/33/1/jira-logo-png_seeklogo-338597.png" width="50"/><br>Atlassian Jira
-</div>
-<div style="background:#1e1e2f; padding:15px; border-radius:12px; width:120px; text-align:center;">
-  <img src="https://n8n.io/favicon-32x32.png" width="50"/><br>n8n
-</div>
-</div>
+| GitHub | GitLab | Trello | Slack | Atlassian Jira | n8n |
+|--------|--------|-------|-------|----------------|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="50"/> | <img src="https://n8n.io/favicon-32x32.png" width="50"/> |
 
 ---
 
