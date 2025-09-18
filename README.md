@@ -82,4 +82,4 @@ _"El código no es solo instrucciones para una máquina, también es una forma d
 ---
 
 # 💻 GitHub Analytics  
-![Lenguajes de Programación](https://github-stats-ow6a7kpwz-migueldevs-projects-bc8307c3.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=miguelriu02&theme=radical)
+![Lenguajes de Programación](https://github-stats-punrkwlk3-migueldevs-projects-bc8307c3.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=miguelriu02&theme=radical)
